@@ -1,4 +1,4 @@
-![maav Logo]( maav-ressources/logo/logo_maav.jpg )
+![maav Logo]( /maav-ressources/logo/logo_maav.jpg )
 
 # maav-ressources
 Ressources numériques & publiques de l'association Melun Agglo À Vélo
