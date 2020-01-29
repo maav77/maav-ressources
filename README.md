@@ -5,7 +5,7 @@ Ressources numériques & publiques de l'association Melun Agglo À Vélo
 
 # Nos différentes publications sur internet :
 
-* La carte des points noirs issus de la FUB :
+* La carte des points noirs issues de la FUB :
 http://umap.openstreetmap.fr/fr/map/melun-val-de-seine-cyclabilite_409761
 
 * Notre page facebook :
